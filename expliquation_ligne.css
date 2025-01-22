@@ -1,0 +1,16 @@
+.bouton_rouge
+{
+
+
+height:25px;//Cette ligne permet de mettre les elements a la taille de 25 pixels
+
+
+position: : absolute ; // permet a l'element d'etre positionné a des endroits de la page 
+right : 5px ; // Celle-ci place les element a 5 pixels a droite
+bottom:  : 5px ;// decale l'element de 5 pixels vers le bas
+text-align:  : center ;// aligne le texte au centre 
+color:  : white ; met le texte en blanc
+
+
+
+}
