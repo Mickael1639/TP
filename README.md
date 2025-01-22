@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Médecin.html</title>
+ </head>
+ <body>
+ 	  <h1>Liste des exercices</h1> <br>
+
+ 	  <a href="TP5_exo1.html">Titres en couleur</a>
+ 	  <a href="listes_a_puces_exo_1.3.html">liste a puces1.3</a>
+ 	  <a href="informations_sup_exo_1.5.html"> informations_sup1.5</a>
+
+ 	  <h2>Paragraphes en couleur</h2>
+
+ 	  <a href="paragraphes_couleurs.html"> Paragraphes en couleur</a>
+
+
+
+
+ 	  <h2>Police</h2>
+ 	  <a href="informations_sup_Police_1.html">Changer la police</a>
+
+ 	  <h2>Image de fond</h2>
+ 	  <a href="informations_sup_background.html">Image de fond</a>
+
+
+      <h2>Mise en page d'un site</h2>
+      <a href="expliquation_ligne.css">Ligne expliquation</a>
+      <a href="Mise_en_place.docx" download="Mise_en_place.docx">Explication</a>
+
+      
+
+</body>
